@@ -34,8 +34,8 @@ Based on Prof Bamrah’s idea, Chart my health has been created through a Joint 
             <div class="row">
               <div class="col-lg-6">
                 <div class="feature-item">
-                  <img src="/img/rethink.png" width="100%">
-               </div>
+                  <img src="/img/apperta.png" width="100%">
+                </div>
               </div>
               <div class="col-lg-6">
                 <div class="feature-item">
@@ -51,8 +51,8 @@ Based on Prof Bamrah’s idea, Chart my health has been created through a Joint 
               </div>
               <div class="col-lg-6">
                 <div class="feature-item">
-                  <img src="/img/apperta.png" width="100%">
-                </div>
+                  <img src="/img/rethink.png" width="100%">
+               </div>
               </div>
             </div>
           </div>
