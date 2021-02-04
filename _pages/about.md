@@ -1,6 +1,6 @@
 ---
 permalink: "/about/"
-layout: default
+layout: singlePage
 title:  "About Chart my health"
 ---
 
