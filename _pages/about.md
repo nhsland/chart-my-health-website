@@ -14,9 +14,9 @@ title:  "About Chart my health"
 Based on Prof Bamrah’s idea, Chart my health has been created through a Joint Working collaboration, established in December 2017, involving 4 core working group  partners:</p><br/>
 
 <ul>
-    <li>NHS Greater Manchester Mental Health NHS Foundation Trust</li>
+    <li>The Apperta Foundation</li>  
     <li>Janssen-Cilag Ltd.</li>
-    <li>The Apperta Foundation</li>
+    <li>NHS Greater Manchester Mental Health NHS Foundation Trust</li>
     <li>ReThink Mental Illness</li>
 </ul>
 
