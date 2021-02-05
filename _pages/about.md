@@ -10,7 +10,7 @@ title:  "About Chart my health"
 
 <center><h1> About Chart my health</h1></center>
 
-<p>Chart my health was developed from the idea of Professor JS Bamrah CBE, a seniort NHS Consultant Psychiatrist and previous Medical Director of Manchester Mental Health and Social Care NHS Trust. Professor Bamrah identified a need to improve the support of patients with mental illness and empower them to monitor and manage their physical health to minimise the risks associated with their condition and improve health outcomes. 
+<p>Chart my health was developed from the idea of Professor JS Bamrah CBE, a senior NHS Consultant Psychiatrist and previous Medical Director of Manchester Mental Health and Social Care NHS Trust. Professor Bamrah identified a need to improve the support of patients with mental illness and empower them to monitor and manage their physical health to minimise the risks associated with their condition and improve health outcomes. 
 Based on Prof Bamrah’s idea, Chart my health has been created through a Joint Working collaboration, established in December 2017, involving 4 core working group  partners:</p><br/>
 
 <ul>
