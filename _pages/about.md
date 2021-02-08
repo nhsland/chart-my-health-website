@@ -17,7 +17,7 @@ Based on Prof Bamrah’s idea, Chart my health has been created through a Joint 
     <li>The Apperta Foundation</li>  
     <li>Janssen-Cilag Ltd.</li>
     <li>NHS Greater Manchester Mental Health NHS Foundation Trust</li>
-    <li>ReThink Mental Illness</li>
+    <li>Rethink Mental Illness</li>
 </ul>
 
 <p>The group worked with the application development company ‘Staircase13’ to produce the final application.</p><br/>
